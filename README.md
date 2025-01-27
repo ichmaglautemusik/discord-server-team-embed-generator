@@ -11,8 +11,6 @@ A Discord bot built using `discord.js` to streamline team management and role or
 
 ## Installation  
 
-1. Install
-
 npm install  
 
 ## Configure the bot:
