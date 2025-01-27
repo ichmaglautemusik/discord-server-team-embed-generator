@@ -18,9 +18,9 @@ npm install
 
 ## Configure the bot:
 
-   -Replace placeholders in the script (ROLE IDS, YOUR APPLICATION CHANNEL, etc.).
-   -Add your bot token:
-   -client.login('YOUR BOT TOKEN');  
+   - Replace placeholders in the script (ROLE IDS, YOUR APPLICATION CHANNEL, etc.).
+   - Add your bot token:
+   - client.login('YOUR BOT TOKEN');  
 
 ## Start the bot:
 
