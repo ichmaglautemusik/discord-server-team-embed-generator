@@ -2,6 +2,8 @@
 
 A Discord bot built using `discord.js` to streamline team management and role organization.
 ---
+![Embed](https://raw.githubusercontent.com/ichmaglautemusik/discord-server-team-embed/refs/heads/main/example1.png)
+
 ### **Features**  
    - Generates visually appealing, color-coded embeds for specified roles in your server.  
    - Lists all members with each role or displays a placeholder message if no members have the role.  
