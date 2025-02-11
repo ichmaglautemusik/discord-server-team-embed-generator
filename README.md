@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F3F7DE&width=435&lines=A+Discord+bot+built+using+discord.js;+to+streamline+team+management;and+role+organization.)](https://git.io/typing-svg)
 ---
-![Embed](https://raw.githubusercontent.com/ichmaglautemusik/discord-server-team-embed/refs/heads/main/example1.png)
-![Application](https://raw.githubusercontent.com/ichmaglautemusik/discord-server-team-embed/refs/heads/main/example2.png)
 
 ### **Features**
 
